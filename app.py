@@ -1,4 +1,4 @@
-options (rock, paper, scissors) = ['rock', 'paper', 'scissors']
+options = ['rock', 'paper', 'scissors']
 player_choice = 'rock'
 computer_choice = 'scissors'
 result = 'win'
